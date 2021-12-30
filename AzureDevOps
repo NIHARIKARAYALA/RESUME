@@ -1,0 +1,60 @@
+# RESUME
+         Niharika 
+Phone: +91-9182351377
+Email: niharika19thudum@gmail.com
+
+Profile Summary:
+•	Around 1+ Years of experience as Azure DevOps Engineer.
+•	Basic knowledge about Git, Terraform, Azure, AzureDevOps, Kubernetes, Docker
+Experience Summary:
+•	Deploying Azure Virtual machines using portal and powershell script.
+•	Continuous monitoring by creating rules and alerts using Azure Monitor.
+•	Experience in implementation Azure load balancer. 
+•	Worked on Redirecting the Traffic to different regions using Traffic manager  Routing Method based on priority, Performance, weighted and geographic.
+•	Knowledge on using and maintaining Azure Key Vault. 
+•	Ensured application consistent Backups and automated daily Snapshots leveraging Automation by creating Powershell scripts.
+•	Good understanding in Azure networking, Storage, VM provisioning, RBAC, NSG, AZ Copy, Storage Explorer.
+•	Good presentation, customer support and trouble shooting skills & experience in providing supports.
+•	Experience in Azure site recovery services and Azure Backup and Restoring Deleted VMs.
+•	Experience in Automating build and deployment , infrastructure and processes for multiple projects.
+•	Experience in CI/CD implementation.
+
+Technical Skills:
+	Microsoft Azure: -
+	Infrastructure as a Service (IaaS):- Azure Cloud service, Azure Virtual Machine, Azure Virtual Networks / Storage / SQL, Azure Backup, Azure copy, Azure Load Balancer and Azure Traffic Manager.
+	Software as a Service (SaaS)	: - Azure AD and AD Connect.
+	DevOps				:-  CI/CD, Azure Repository, GIT hub.
+	Scripting                                          :-   Powershell.
+	Microsoft Operating System       :-   Windows
+
+Professional Experience:
+	Currently Working as Azure DevOps Engineer in UHG, from Oct 2020 to Till Date.
+
+
+
+
+
+Education Qualification:
+B.Sc From N.B Science College, OSMANIA UNIVERSITY,  Hyderabad.
+
+Project -1
+Client		: UHG.
+Role		: Azure DevOps Engineer
+Duration	: Oct 2020 to Till Date
+
+Roles and Responsibilities: 
+•	Build and release definition configuration and enabling triggers for CI and CD.
+•	High level of understanding and experience of Continuous Integration, Continuous Delivery (CI/CD)
+•	Created Build and Release Definition for Continuous Integration and Continuous Deployment.
+•	VM deployments using portal and PowerShell.
+•	Creating/Configuring Load balancer and Traffic manager.
+•	Adding additional disks to Azure VM upon request/utilization.
+•	Create PowerShell script to manage multiple subscriptions.
+•	Scale up and scale down various services like VMs.
+•	Creation of Azure VM’s, Azure NIC, Azure Virtual networks, and provide access, users and managing entire Azure infrastructure services.
+•	Provide read access of Azure subscription to users upon approvals from higher management.
+•	Installing the azure VM Agents for integrating the Azure Backup services.
+•	Enabling and configuring the Backup policy on Virtual Machines.
+•	Deploy and manage the Azure Services like Virtual Machines, Storage, Virtual Networks, Azure CDN.
+
+
